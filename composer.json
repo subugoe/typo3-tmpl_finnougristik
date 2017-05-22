@@ -1,0 +1,17 @@
+{
+    "name": "subugoe/tmpl-fidmath",
+    "description": "FID Math Website template",
+    "type": "typo3-cms-extension",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "Ingo Pfennigstorf",
+            "email": "i.pfennigstorf@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+             "Subugoe\\TmplFidmath\\": "Classes/"
+        }
+    }
+}
