@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xliff version="1.0">
 	<file source-language="en" datatype="plaintext" original="messages" date="2011-10-18T18:20:51Z"
-	      product-name="tmpl_fidmath">
+	      product-name="tmpl_finnougristik">
 		<header/>
 		<body>
 			<trans-unit id="external-link" xml:space="preserve">
 <target>external link</target>
 </trans-unit>
 <trans-unit id="header-logo-title" xml:space="preserve">
-<target>Website of the Virtual Library of Mathematics</target>
+	<target>Website of the Virtual Library of Finnougristik</target>
 </trans-unit>
 <trans-unit id="header-languageswitch" xml:space="preserve">
 <target>Deutsch</target>

@@ -1,6 +1,6 @@
-plugin.tx_find.view.templateRootPaths.15 = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/Find/Templates/
-plugin.tx_find.view.partialRootPaths.15 = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/Find/Partials/
-plugin.tx_find.view.layoutRootPaths.15 = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/Find/Layouts/
+plugin.tx_find.view.templateRootPaths.15 = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/Find/Templates/
+plugin.tx_find.view.partialRootPaths.15 = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/Find/Partials/
+plugin.tx_find.view.layoutRootPaths.15 = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/Find/Layouts/
 
 plugin.tx_find.settings {
     connection {

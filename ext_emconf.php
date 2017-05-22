@@ -1,7 +1,7 @@
 <?php
 
 /***************************************************************
- * Extension Manager/Repository config file for ext "tmpl_fidmath".
+ * Extension Manager/Repository config file for ext "tmpl_finnougristik".
  *
  * generated 30-06-2015 12:44
  ***************************************************************/

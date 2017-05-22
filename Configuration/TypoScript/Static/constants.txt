@@ -140,9 +140,9 @@ subject-search = 92
 
 plugin.tx_news {
     view {
-        partialRootPath = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/News/Partials
-        templateRootPath = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/News/Templates
-        layoutRootPath = EXT:tmpl_fidmath/Resources/Private/Templates/Extensions/News/Layouts
+        partialRootPath = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/News/Partials
+        templateRootPath = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/News/Templates
+        layoutRootPath = EXT:tmpl_finnougristik/Resources/Private/Templates/Extensions/News/Layouts
     }
 
     settings {

@@ -2,7 +2,7 @@ page = PAGE
 page {
     typeNum = 0
 
-    shortcutIcon = EXT:tmpl_fidmath/Resources/Public/Images/favicon.ico
+    shortcutIcon = EXT:tmpl_finnougristik/Resources/Public/Images/favicon.ico
 
     config {
         sys_language_uid = 0
@@ -50,30 +50,30 @@ page {
     }
 
     includeCSS {
-        file1 = EXT:tmpl_fidmath/Resources/Public/Css/screen.css
+        file1 = EXT:tmpl_finnougristik/Resources/Public/Css/screen.css
         file1.media = all
 
-        file2 = EXT:tmpl_fidmath/Resources/Public/Css/print.css
+        file2 = EXT:tmpl_finnougristik/Resources/Public/Css/print.css
         file2.media = print
 
-        file3 = EXT:tmpl_fidmath/Resources/Public/Css/screenIE8.css
+        file3 = EXT:tmpl_finnougristik/Resources/Public/Css/screenIE8.css
         file3.allWrap = <!--[if IE 8]>|<![endif]-->
     }
 
     includeJS {
-        file1 = EXT:tmpl_fidmath/Resources/Public/JavaScript/fidmath.js
+        file1 = EXT:tmpl_finnougristik/Resources/Public/JavaScript/finnougristik.js
     }
 
     includeJSLibs {
-        jquery = EXT:tmpl_fidmath/Resources/Public/JavaScript/jquery.min.js
+        jquery = EXT:tmpl_finnougristik/Resources/Public/JavaScript/jquery.min.js
     }
 
     10 = FLUIDTEMPLATE
     10 {
-        file = EXT:tmpl_fidmath/Resources/Private/Templates/Vifamath.html
-        extbase.controllerExtensionName = tmpl_fidmath
-        partialRootPath = EXT:tmpl_fidmath/Resources/Private/Templates/Partials/
-        layoutRootPath = EXT:tmpl_fidmath/Resources/Private/Templates/Layouts/
+        file = EXT:tmpl_finnougristik/Resources/Private/Templates/Vifamath.html
+        extbase.controllerExtensionName = tmpl_finnougristik
+        partialRootPath = EXT:tmpl_finnougristik/Resources/Private/Templates/Partials/
+        layoutRootPath = EXT:tmpl_finnougristik/Resources/Private/Templates/Layouts/
         variables {
             pageTitle = TEXT
             pageTitle.data = page:subtitle
@@ -212,6 +212,6 @@ plugin.tx_pazpar2.settings {
     )
 [global]
 
-plugin.tx_pazpar2.settings.flotJSPath = EXT:tmpl_fidmath/Resources/Public/JavaScript/jquery.flot.js
-plugin.tx_pazpar2.settings.flotSelectionJSPath = EXT:tmpl_fidmath/Resources/Public/JavaScript/jquery.flot.selection.js
-module.tx_form.settings.yamlConfigurations.667 = EXT:tmpl_fidmath/Configuration/Yaml/Form.yaml
+plugin.tx_pazpar2.settings.flotJSPath = EXT:tmpl_finnougristik/Resources/Public/JavaScript/jquery.flot.js
+plugin.tx_pazpar2.settings.flotSelectionJSPath = EXT:tmpl_finnougristik/Resources/Public/JavaScript/jquery.flot.selection.js
+module.tx_form.settings.yamlConfigurations.667 = EXT:tmpl_finnougristik/Configuration/Yaml/Form.yaml
