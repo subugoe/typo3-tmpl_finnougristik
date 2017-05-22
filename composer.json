@@ -1,12 +1,12 @@
 {
-    "name": "subugoe/tmpl-fidmath",
-    "description": "FID Math Website template",
+    "name": "subugoe/tmpl-finnougristik",
+    "description": "FID Finnougristik Website template",
     "type": "typo3-cms-extension",
     "license": "GPL-2.0+",
     "authors": [
         {
-            "name": "Ingo Pfennigstorf",
-            "email": "i.pfennigstorf@gmail.com"
+            "name": "Hans-Werner Hilse",
+            "email": "hilse@sub.uni-goettingen.de"
         }
     ],
     "autoload": {

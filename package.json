@@ -1,10 +1,10 @@
 {
-  "name": "tmpl_fidmath",
+  "name": "tmpl_finnougristik",
   "version": "1.0.0",
-  "description": "Template for FIDMATH web presence",
+  "description": "Template for FID Finnougristik web presence",
   "repository": {
     "type": "git",
-    "url": "https://github.com/subugoe/typo3-tmpl_fidmath.git"
+    "url": "https://github.com/subugoe/typo3-tmpl_finnougristik.git"
   },
   "dependencies": {
     "gulp": "^3.8.10",
@@ -18,10 +18,10 @@
   "devDependencies": {
     "gulp-autoprefixer": "^3.1.1"
   },
-  "author": "Ingo Pfennigstorf <i.pfennigstorf@gmail.com>",
+  "author": "Hans-Werner Hilse <hilse@sub.uni-goettingen.de>",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/subugoe/typo3-tmpl_fidmath/issues"
+    "url": "https://github.com/subugoe/typo3-tmpl_finnougristik/issues"
   },
-  "homepage": "https://github.com/subugoe/typo3-tmpl_fidmath"
+  "homepage": "https://github.com/subugoe/typo3-tmpl_finnougristik"
 }

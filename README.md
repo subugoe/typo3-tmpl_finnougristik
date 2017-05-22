@@ -1,12 +1,12 @@
-# typo3-tmpl_fidmath
+# typo3-tmpl_finnougristik
 
 Include the complete TypoScript settings with
 
-```<INCLUDE_TYPOSCRIPT: source="FILE:EXT:tmpl_fidmath/Configuration/TypoScript/Static/setup.txt">```
+```<INCLUDE_TYPOSCRIPT: source="FILE:EXT:tmpl_finnougristik/Configuration/TypoScript/Static/setup.txt">```
 
 in setup, and also add the basic constants with
 
-```<INCLUDE_TYPOSCRIPT: source="FILE:EXT:tmpl_fidmath/Configuration/TypoScript/Static/constants.txt">```
+```<INCLUDE_TYPOSCRIPT: source="FILE:EXT:tmpl_finnougristik/Configuration/TypoScript/Static/constants.txt">```
 
 ## For developers
 
