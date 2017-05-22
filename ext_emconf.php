@@ -7,14 +7,14 @@
  ***************************************************************/
 
 $EM_CONF[$_EXTKEY] = [
-    'title' => 'FIDMATH Template',
-    'description' => 'Template for FIDMATH web presence',
+    'title' => 'Finnougristik Template',
+    'description' => 'Template for FID Finnougristik web presence',
     'category' => 'frontend',
     'version' => '1.0.0',
     'state' => 'alpha',
     'clearcacheonload' => 1,
-    'author' => 'Ingo Pfennigstorf, Ali Reza Sajedi',
-    'author_email' => 'pfennigstorf@sub.uni-goettingen.de, sajedi@sub.uni-goettingen.de',
+    'author' => 'Ingo Pfennigstorf, Ali Reza Sajedi, Hans-Werner Hilse',
+    'author_email' => 'hilse@sub.uni-goettingen,de, pfennigstorf@sub.uni-goettingen.de, sajedi@sub.uni-goettingen.de',
     'author_company' => 'SUB Uni-Göttingen',
     'constraints' => [
             'depends' => [
