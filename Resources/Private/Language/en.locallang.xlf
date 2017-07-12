@@ -8,7 +8,7 @@
 <target>external link</target>
 </trans-unit>
 <trans-unit id="header-logo-title" xml:space="preserve">
-	<target>Website of the Virtual Library of Finnougristik</target>
+<target>Fachinformationsdienst Finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen</target>
 </trans-unit>
 <trans-unit id="header-languageswitch" xml:space="preserve">
 <target>Deutsch</target>
