@@ -22,6 +22,15 @@
 <trans-unit id="menu" xml:space="preserve">
 <target>Menü</target>
 </trans-unit>
+<trans-unit id="sub-link-title" xml:space="preserve">
+<target>Niedersächsische Staats- und Universitätsbibliothek Göttingen</target>
+</trans-unit>
+<trans-unit id="dfg-link-title" xml:space="preserve">
+<target>Deutsche Forschungsgesellschaft (DFG)</target>
+</trans-unit>
+<trans-unit id="dfg-sponsoring-text" xml:space="preserve">
+<target>gefördert durch</target>
+</trans-unit>
 		</body>
 	</file>
 </xliff>

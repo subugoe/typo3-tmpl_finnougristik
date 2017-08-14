@@ -22,6 +22,15 @@
 <trans-unit id="menu" xml:space="preserve">
 <target>Menu</target>
 </trans-unit>
+<trans-unit id="sub-link-title" xml:space="preserve">
+<target>Lower Saxony State and University Library Göttingen</target>
+</trans-unit>
+<trans-unit id="dfg-link-title" xml:space="preserve">
+<target>Deutsche Forschungsgesellschaft (DFG)</target>
+</trans-unit>
+<trans-unit id="dfg-sponsoring-text" xml:space="preserve">
+<target>funded by</target>
+</trans-unit>
 
 		</body>
 	</file>
