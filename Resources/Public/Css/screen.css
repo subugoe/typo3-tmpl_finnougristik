@@ -3261,43 +3261,13 @@ form .actions {
 }
 
 .header {
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
   width: auto;
   background-color: #fff;
-  height: 165px;
-  margin: .5em 0;
+  margin-top: 1.2em;
 }
 
-.header .header-logo {
-  -webkit-box-flex: 3;
-      -ms-flex: 3 1 60%;
-          flex: 3 1 60%;
-  padding: .6em 0;
-}
-
-.header .header-actionspicture {
-  -webkit-box-flex: 2;
-      -ms-flex: 2 1 40%;
-          flex: 2 1 40%;
-  text-align: right;
-}
-
-@media (max-width: 639px) {
-  .header .header-actionspicture {
-    display: none;
-  }
-}
-
-@media (min-width: 640px) and (max-width: 991px) {
-  .header .header-actionspicture {
-    display: none;
-  }
-}
-
-.header .header-actionspicture img {
-  border: 0;
+img.headerimg {
+  max-width: 100%;
 }
 
 .main-content {
@@ -4331,6 +4301,34 @@ form .actions {
   display: none;
   position: absolute;
   background: #fff;
+}
+
+div.sponsoring {
+  font-size: 75%;
+  border-top: 1px solid #f0f0f0;
+  text-align: center;
+}
+
+div.sponsoring-sub {
+  width: 320px;
+  display: inline;
+  text-align: center;
+  margin: 0 50px;
+}
+
+div.sponsoring-dfg {
+  width: 320px;
+  display: inline;
+  text-align: center;
+  margin: 0 50px;
+  white-space: nowrap;
+}
+
+div.sponsoring-dfg-text {
+  display: inline;
+  position: relative;
+  bottom: 15px;
+  margin-right: 10px;
 }
 
 td.data a.external-link[href$=".pdf"],

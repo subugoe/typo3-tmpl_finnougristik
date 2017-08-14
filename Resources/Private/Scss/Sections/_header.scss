@@ -1,29 +1,8 @@
 .header {
-	display: flex;
 	width: auto;
 	background-color: $white;
-	height: 165px;
-	margin: .5em 0;
-
-	.header-logo {
-		flex: 3 1 60%;
-		padding: .6em 0;
-	}
-
-	.header-actionspicture {
-		flex: 2 1 40%;
-		text-align: right;
-
-		@include breakpoint('xs') {
-			display: none;
-		}
-
-		@include breakpoint('sm') {
-			display: none;
-		}
-
-		img {
-			border: 0;
-		}
-	}
+	margin-top: 1.2em;
+}
+img.headerimg {
+	max-width: 100%;
 }
