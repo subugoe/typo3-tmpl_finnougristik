@@ -2748,6 +2748,24 @@ p {
   padding: 0;
 }
 
+.main-content a {
+  text-decoration: none;
+  -webkit-transition: background .2s ease-in-out;
+  transition: background .2s ease-in-out;
+  padding: 1px 0;
+  box-shadow: 0 -6px 0 #e3eaf9 inset;
+}
+
+.main-content a:hover, .main-content a:focus, .main-content a:active {
+  background: #e3eaf9;
+}
+
+@media print {
+  .main-content a {
+    box-shadow: none;
+  }
+}
+
 a {
   color: #192d57;
 }
@@ -2781,6 +2799,10 @@ li, .tx_find .facet-type-Tabs ol .facetActive {
 
 strong {
   background: #b5c5e6;
+}
+
+h2 {
+  padding: .7em 0 .3em;
 }
 
 h2.searchingIn {
@@ -3244,7 +3266,7 @@ form .actions {
   display: flex;
   width: auto;
   background-color: #fff;
-  height: 119px;
+  height: 165px;
   margin: .5em 0;
 }
 

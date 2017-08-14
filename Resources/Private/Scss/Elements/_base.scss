@@ -24,6 +24,29 @@ p {
 	padding: 0;
 }
 
+@mixin hover {
+	&:hover,
+	&:focus,
+	&:active {
+		@content;
+	}
+}
+
+.main-content a {
+	text-decoration: none;
+	transition: background .2s ease-in-out;
+	padding: 1px 0;
+	box-shadow: 0 -6px 0 $bg-color inset;
+
+	@include hover {
+		background: $bg-color;
+	}
+
+	@media print {
+		box-shadow: none;
+	}
+}
+
 a {
 	color: $link-color;
 
@@ -60,6 +83,7 @@ strong {
 }
 
 h2 {
+	padding: .7em 0 .3em;
 	&.searchingIn {
 		color: $text-color;
 		font-weight: normal;
