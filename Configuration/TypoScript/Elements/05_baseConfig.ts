@@ -17,22 +17,16 @@ page {
     headerData {
         12 = TEXT
         12 {
-            wrap = <link href="|" rel="alternate" type="application/rss+xml" title="Fachinformationsdienst Mathe News"/>
+            wrap = <link href="|" rel="alternate" type="application/rss+xml" title="Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen: News"/>
             typolink {
                 parameter = 1,100
                 returnLast = url
             }
         }
 
-        14 = TEXT
-        14.value = <script type="text/x-mathjax-config">MathJax.Hub.processSectionDelay = 0;MathJax.Hub.Config({TeX: {Macros:{sb: ["{_#1}", 1], sp: ["{^#1}", 1]}}, extensions: ["tex2jax.js"],jax: ["input/TeX", "output/HTML-CSS"],tex2jax: { inlineMath: [ ['$','$'], ["\\(","\\)"] ], displayMath: [ ['$$','$$'], ["\\[","\\]"] ], processEscapes: true }, "HTML-CSS": { availableFonts: ["TeX"] } }); </script>
-
-        15 = TEXT
-        15.value = <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-
         16 = TEXT
         16 {
-            wrap = <link rel="search" type="application/opensearchdescription+xml" title="Fachinformationsdienst Mathematik" href="|" />
+            wrap = <link rel="search" type="application/opensearchdescription+xml" title="Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen" href="|" />
             typolink {
                 parameter = 1,9004
                 returnLast = url
@@ -41,10 +35,10 @@ page {
     }
 
     meta {
-        author = Fachinformationsdienst Mathematik
-        description = Der Fachinformationsdienst Mathematik ist ein zentraler Einstieg für die Recherche nach mathematikspezifischen Informationen; z. B. können Bibliothekskataloge, Preprintserver und Sammlungen von Reviews, Zeitschriften und mathematisch relevanten Internetseiten simultan durchsucht werden.
-        abstract = Der Fachinformationsdienst Mathematik ist ein zentraler Einstieg für die Recherche nach mathematikspezifischen Informationen; z. B. können Bibliothekskataloge, Preprintserver und Sammlungen von Reviews, Zeitschriften und mathematisch relevanten Internetseiten simultan durchsucht werden.
-        Content-language = de, en
+        author = Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen
+        description = Der FID bietet einen zentralen Zugang zu wissenschaftlichen Literatur- und Informationsangeboten für die Finnougristik/Uralistik, Fennistik und Hungarologie sowie für die Erforschung der Regionen Finnland und Ungarn.
+        abstract = Der FID bietet einen zentralen Zugang zu wissenschaftlichen Literatur- und Informationsangeboten für die Finnougristik/Uralistik, Fennistik und Hungarologie sowie für die Erforschung der Regionen Finnland und Ungarn.
+        Content-language = de
         Robots = index, follow
         viewport = width=device-width, initial-scale=1
     }
