@@ -17,7 +17,7 @@ page {
     headerData {
         12 = TEXT
         12 {
-            wrap = <link href="|" rel="alternate" type="application/rss+xml" title="Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen: News"/>
+            wrap = <link href="|" rel="alternate" type="application/rss+xml" title="FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen: News"/>
             typolink {
                 parameter = 1,100
                 returnLast = url
@@ -26,7 +26,7 @@ page {
 
         16 = TEXT
         16 {
-            wrap = <link rel="search" type="application/opensearchdescription+xml" title="Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen" href="|" />
+            wrap = <link rel="search" type="application/opensearchdescription+xml" title="FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen" href="|" />
             typolink {
                 parameter = 1,9004
                 returnLast = url
@@ -35,7 +35,7 @@ page {
     }
 
     meta {
-        author = Fachinformationsdienst Finnisch-ugrische / uralische Sprachen, Literaturen und Kulturen
+        author = FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen
         description = Der FID bietet einen zentralen Zugang zu wissenschaftlichen Literatur- und Informationsangeboten für die Finnougristik/Uralistik, Fennistik und Hungarologie sowie für die Erforschung der Regionen Finnland und Ungarn.
         abstract = Der FID bietet einen zentralen Zugang zu wissenschaftlichen Literatur- und Informationsangeboten für die Finnougristik/Uralistik, Fennistik und Hungarologie sowie für die Erforschung der Regionen Finnland und Ungarn.
         Content-language = de
@@ -119,8 +119,8 @@ constants {
 
     MM = Marianna Mühlhölzer
 
-    VM = Fachinformationsdienst Mathematik
-    VM_en = Virtual Library of Mathematics
+    VM = FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen
+    VM_en = FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen
     vifamath = <span class="prefix">fid</span><span class="postfix">math</span>
 
     SUB = SUB Göttingen

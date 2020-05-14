@@ -8,7 +8,7 @@
 <target>external link</target>
 </trans-unit>
 <trans-unit id="header-logo-title" xml:space="preserve">
-<target>Fachinformationsdienst Finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen</target>
+<target>FID finnisch-ugrische/uralische Sprachen, Literaturen und Kulturen</target>
 </trans-unit>
 <trans-unit id="header-languageswitch" xml:space="preserve">
 <target>Deutsch</target>
