@@ -4572,8 +4572,10 @@ a.external-link-new-window[href$=".HTML"] {
 
 @media (max-width: 639px) {
   .menu-trigger {
-    display: inline-block;
-    position: absolute;
+    display: block;
+    text-align: left;
+    /* display: inline-block;
+    position: absolute; */
     background: #fff;
     color: #000;
     z-index: 99;
